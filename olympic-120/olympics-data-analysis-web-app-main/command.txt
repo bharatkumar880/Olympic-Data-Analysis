@@ -1,0 +1,8 @@
+pip install streamlit
+python --version
+python -m streamlit --version
+cd C:\Users\HP\Downloads\olympic-120\olympics-data-analysis-web-app-main
+python -m streamlit run app.py
+
+run in terminal
+streamlit run c:/Users/HP/Downloads/olympic-120/olympics-data-analysis-web-app-main/app.py
